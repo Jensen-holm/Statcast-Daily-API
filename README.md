@@ -10,7 +10,7 @@ Note that docker instructions could be different depending on your OS, I am runn
 ## Docker Build & Run 
 
 (on my machine, I called the image name statcast-daily) <br>
-3. `sudo docker build -t [imagename] .` 
+3. `sudo docker build -t [imagename] .` <br> 
 4. `sudo docker run [imagename] --network="host"`
 
 
