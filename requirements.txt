@@ -1,0 +1,2 @@
+baseball_scraper==0.4.10
+Flask==2.2.3
